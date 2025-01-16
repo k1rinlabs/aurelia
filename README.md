@@ -6,6 +6,10 @@
 ![Alt text](/docs/static/img/818969054388844863.png)
 ![Alt text](/docs/static/img/818969054388844863.png)
 
+<p>
+    <img src="/docs/static/img/818969054388844863.png" width="220" height="240" />
+</p>
+
 
 
 <div align="center">
