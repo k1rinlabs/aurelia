@@ -1,6 +1,6 @@
 # Aurelia
 
-<div align="center"> <img src="/docs/static/img/818969054388844863.png" width="220" height="240" /></div>
+<div align="center"> <img src="/docs/static/img/IMG_3822.JPG" width="220" height="240" /></div>
 
 <div align="center">
 
