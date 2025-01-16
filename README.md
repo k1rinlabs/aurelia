@@ -1,9 +1,9 @@
 # Eliza 🤖
 
-<div align="center">
-  ![818969054388844863](https://github.com/user-attachments/assets/00a630ef-14c0-403e-9720-88449742fc95)
+<div align="center"></div>
+![818969054388844863](https://github.com/user-attachments/assets/8c87aa13-83df-44d7-b898-7de0ef6bd2c9)
 
-</div>
+
 
 <div align="center">
 
