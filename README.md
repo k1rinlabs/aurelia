@@ -7,6 +7,7 @@
 📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
+
 # 🚀 **AI Agent Roadmap: Building the Future of Decentralized Intelligence** 🌐
 
 Welcome to the roadmap for our next-gen AI agent—a revolutionary blend of blockchain integration, trading capabilities, and cutting-edge AI. This guide outlines our journey from ideation to execution, ensuring a scalable, secure, and intelligent solution that redefines what's possible in Web3.
@@ -25,10 +26,10 @@ Welcome to the roadmap for our next-gen AI agent—a revolutionary blend of bloc
 - **Decentralized Identity Solutions:** Explore decentralized frameworks for user authentication and enhanced security.
 - **Goal:** Enable seamless interaction with decentralized networks.
 
-### 📈 **Trading Algorithm Design**
-- **Real-Time Data Feeds:** Integrate APIs for live market analysis, ensuring up-to-the-second trading decisions.
-- **Risk Management:** Build algorithms to assess and mitigate risks dynamically.
-- **Goal:** Create a functional trading assistant ready to navigate crypto markets.
+### 📈 **Trading Feature Integration**
+- **ElizaOS Autonomous Trading Plugin:** Implement ElizaOS's autonomous trading system to enable automated token trading on the Solana blockchain. This integration will facilitate efficient swaps, smart order routing, and risk management features. ([elizaos.github.io](https://elizaos.github.io/eliza/docs/advanced/autonomous-trading/?utm_source=chatgpt.com))
+- **OpenAlgo Platform:** Explore the use of OpenAlgo, an open-source algorithmic trading platform, to bridge the gap between our AI agent and major trading platforms, enhancing trading capabilities. ([github.com](https://github.com/marketcalls/openalgo?utm_source=chatgpt.com))
+- **Goal:** Equip the AI agent with robust, autonomous trading capabilities, leveraging existing open-source tools for efficient development.
 
 ### 💻 **Infrastructure Setup**
 - **Cloud Scalability:** Adopt cloud platforms to ensure performance scales with demand.
