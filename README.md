@@ -3,8 +3,8 @@
 <div align="center"></div>
 ![818969054388844863](https://github.com/user-attachments/assets/8c87aa13-83df-44d7-b898-7de0ef6bd2c9)
 ![Alt text](https://github.com/user-attachments/assets/8c87aa13-83df-44d7-b898-7de0ef6bd2c9)
-![Alt text](./docs/static/img/818969054388844863.png)
-![Alt text](./docs/static/img/818969054388844863.png)
+![Alt text](/docs/static/img/818969054388844863.png)
+![Alt text](/docs/static/img/818969054388844863.png)
 
 
 
